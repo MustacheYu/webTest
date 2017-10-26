@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pages>
+	<page pagename="LoginPage">
+		<element name="login_username_input">
+			<pathvalue>xpath=>/html/body/div/div/div/div[2]/div/div[1]/form/div[2]/span[1]/input</pathvalue>
+		</element>
+		<element name="login_password_input">
+			<pathvalue>xpath=>/html/body/div/div/div/div[2]/div/div[1]/form/div[2]/span[2]/input</pathvalue>
+		</element>
+		<element name="login_checkcode_input">
+			<pathvalue>xpath=>/html/body/div/div/div/div[2]/div/div[1]/form/div[2]/span[3]/input</pathvalue>
+		</element>		
+		<element name="search_submit_btn">
+			<pathvalue>xpath=>/html/body/div/div/div/div[2]/div/div[1]/form/div[3]/input</pathvalue>
+		</element>
+	</page>
+</pages>

@@ -1,0 +1,32 @@
+2017-10-25 16:38:05,677 - testLogin - INFO - --------login START--------
+2017-10-25 16:38:09,773 - BrowserEngine - INFO - Starting Chrome browser.
+2017-10-25 16:38:11,529 - BrowserEngine - INFO - Open url: http://cgjxb.iotone.cn/#/login
+2017-10-25 16:38:12,651 - BrowserEngine - INFO - Maximize the current window.
+2017-10-25 16:38:12,651 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2017-10-25 16:38:13,339 - BasePage - INFO - Had find the element successful by xpath value: /html/body/div/div/div/div[2]/div/div[1]/form/div[2]/span[1]/input 
+2017-10-25 16:38:13,487 - BasePage - INFO - Had type ' interface2@163.com ' in inputBox
+2017-10-25 16:38:13,503 - BasePage - INFO - Had find the element successful by xpath value: /html/body/div/div/div/div[2]/div/div[1]/form/div[2]/span[2]/input 
+2017-10-25 16:38:13,582 - BasePage - INFO - Had type ' 123456 ' in inputBox
+2017-10-25 16:38:13,598 - BasePage - INFO - Had find the element successful by xpath value: /html/body/div/div/div/div[2]/div/div[1]/form/div[2]/span[3]/input 
+2017-10-25 16:38:13,655 - BasePage - INFO - Had type ' test ' in inputBox
+2017-10-25 16:38:13,671 - BasePage - INFO - Had find the element successful by xpath value: /html/body/div/div/div/div[2]/div/div[1]/form/div[3]/input 
+2017-10-25 16:38:15,703 - BasePage - INFO - The element was clicked.
+2017-10-25 16:38:17,710 - BasePage - INFO - Sleep for 2 seconds
+2017-10-25 16:38:17,710 - BasePage - INFO - Current page title is 登录
+2017-10-25 16:38:18,055 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2017-10-25 16:38:21,210 - testLogin - INFO - --------login END--------
+2017-10-25 16:38:21,210 - testLogin - INFO - --------login_PasswordError START--------
+2017-10-25 16:38:24,548 - BrowserEngine - INFO - Starting Chrome browser.
+2017-10-25 16:38:26,753 - BrowserEngine - INFO - Open url: http://cgjxb.iotone.cn/#/login
+2017-10-25 16:38:27,875 - BrowserEngine - INFO - Maximize the current window.
+2017-10-25 16:38:27,875 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2017-10-25 16:38:28,328 - BasePage - INFO - Had find the element successful by xpath value: /html/body/div/div/div/div[2]/div/div[1]/form/div[2]/span[1]/input 
+2017-10-25 16:38:28,467 - BasePage - INFO - Had type ' interface2@163.com ' in inputBox
+2017-10-25 16:38:28,483 - BasePage - INFO - Had find the element successful by xpath value: /html/body/div/div/div/div[2]/div/div[1]/form/div[2]/span[2]/input 
+2017-10-25 16:38:28,542 - BasePage - INFO - Had type ' 12345 ' in inputBox
+2017-10-25 16:38:28,558 - BasePage - INFO - Had find the element successful by xpath value: /html/body/div/div/div/div[2]/div/div[1]/form/div[2]/span[3]/input 
+2017-10-25 16:38:28,619 - BasePage - INFO - Had type ' test ' in inputBox
+2017-10-25 16:38:28,635 - BasePage - INFO - Had find the element successful by xpath value: /html/body/div/div/div/div[2]/div/div[1]/form/div[3]/input 
+2017-10-25 16:38:33,688 - BasePage - INFO - The element was clicked.
+2017-10-25 16:38:35,690 - BasePage - INFO - Sleep for 2 seconds
+2017-10-25 16:38:38,752 - testLogin - INFO - --------login_PasswordError END--------
